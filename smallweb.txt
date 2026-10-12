@@ -8694,6 +8694,7 @@ https://chasfreeman.net/feed/
 https://chasingmailboxes.com/feed/
 https://chasmosaurs.com/feed/atom/
 https://chato.cl/life/en/feed/
+https://chaturvedimayank.wordpress.com/feed/
 https://chauhankiran.pages.dev/feed.xml
 https://chavanniclass.wordpress.com/feed/
 https://chavi.net/feed/
@@ -12696,6 +12697,7 @@ https://enigmaticbits.com/atom.xml
 https://enigmaticcode.wordpress.com/feed/atom/
 https://enikofox.com/feed.xml
 https://enindu.com/rss.xml
+https://enjambments.com/essays.xml
 https://enkhee-osiris.github.io/rss.xml
 https://enkiops.org/feed/
 https://enklypesalt.com/feed.xml
@@ -13091,6 +13093,7 @@ https://ewpratten.com/rss.xml
 https://ewr.is/feed
 https://ex.rs/feed
 https://exa.y2k.diy/feed.xml
+https://exapologist.blogspot.com/feeds/posts/default
 https://excavatedshellac.com/feed/
 https://excellentjourney.net/feed/
 https://exceloffthegrid.com/feed/
